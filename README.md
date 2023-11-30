@@ -1,4 +1,4 @@
-# Failed rides Analysis
+# Failed ride Analysis
 
 For this project, we are analyzing the dataset of Gett, a Ground Transportation Management technology platform.  
 Clients order taxis and the system matches them with an available driver. 
